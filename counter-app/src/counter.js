@@ -1,5 +1,5 @@
 import "./counter.css";
-
+import React from "react"; 
 import { useState } from "react";
 import { ChevronDown } from "react-feather";
 import { ChevronUp } from "react-feather";
